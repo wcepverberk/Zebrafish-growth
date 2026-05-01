@@ -11,7 +11,7 @@ library(AICcmodavg)
 library(dplyr)
 
 #Load dataset 1
-setwd("/Users/Jboerrigter/Nextcloud/Iris/Paper 3 - Growth paper/Revision/Revision for BiO/Final files/JB")
+setwd()
 data <- read.csv(file= "Data/datafish1-114.csv", header = TRUE)
 
 #check and reorganize data structure
